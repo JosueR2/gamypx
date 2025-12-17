@@ -50,7 +50,7 @@ label {
 @media (min-width: 900px) {
     .gamypx-page {
         background-color: var(--bg-page);
-        padding: 5px 16px;
+        padding: 10px 16px;
     }
 }
 
