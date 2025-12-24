@@ -1,4 +1,4 @@
-/* --- style sheet version 0.0.8 --- */
+/* --- style sheet version 0.0.9 --- */
 
 :root {
     --primary: #3b82f6;
@@ -323,9 +323,9 @@ label {
 }
 
 .gamypx-card-description {
-    font-size: 0.95em;
+    font-size: 1em;
     color: var(--text-body);
-    line-height: 1.5;
+    line-height: 1.3;
     margin-bottom: 16px;
     flex-grow: 1;
 }
@@ -413,7 +413,7 @@ label {
     /* from user custom p style reference or standard */
     color: var(--text-body);
     margin: 0 0 12px 0;
-    line-height: 1.6;
+    line-height: 1.3;
 }
 
 .gamypx-subsection .gamypx-icon,
@@ -844,7 +844,7 @@ input[type=range]::-webkit-slider-thumb:hover {
     padding: 24px;
     color: var(--text-body);
     font-size: 1rem;
-    line-height: 1.6;
+    line-height: 1.3;
     overflow-y: auto;
     white-space: pre-wrap;
     /* Preserve newlines from alert strings */
@@ -877,7 +877,7 @@ input[type=range]::-webkit-slider-thumb:hover {
 .gamypx-example-box p {
 
     color: var(--text-body);
-    font-size: 0.95rem;
+    font-size: 1rem;
     margin: 6px 0;
     padding-left: 12px;
 }
