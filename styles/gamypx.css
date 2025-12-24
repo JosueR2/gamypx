@@ -1,4 +1,4 @@
-/* --- style sheet version 0.0.5 --- */
+/* --- style sheet version 0.0.7 --- */
 
 :root {
     --primary: #3b82f6;
@@ -168,6 +168,13 @@ label {
     .gamypx-grid-3 {
         grid-template-columns: repeat(3, 1fr);
     }
+}
+
+/* Stack layout (vertical, full-width children) */
+.gamypx-stack {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
 }
 
 /* --- Components: Buttons & Toggles --- */
@@ -848,4 +855,37 @@ input[type=range]::-webkit-slider-thumb:hover {
     border-top: 1px solid var(--border);
     display: flex;
     justify-content: flex-end;
+}
+
+/* --- Components: Example Box --- */
+.gamypx-example-box {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 6px;
+}
+
+.gamypx-example-box h4 {
+    color: #b45309;
+    margin-bottom: 8px;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 5px;
+}
+
+.gamypx-example-box p {
+
+    color: var(--text-body);
+    font-size: 0.95rem;
+    margin: 6px 0;
+    padding-left: 12px;
+}
+
+@media (max-width: 768px) {
+    .gamypx-subsection,
+    .gamypx-mode-card,
+    .gamypx-example-box {
+        padding: 7px;
+    }
 }
