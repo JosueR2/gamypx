@@ -1,4 +1,4 @@
-/* --- style sheet version 0.0.7 --- */
+/* --- style sheet version 0.0.8 --- */
 
 :root {
     --primary: #3b82f6;
@@ -886,6 +886,11 @@ input[type=range]::-webkit-slider-thumb:hover {
     .gamypx-subsection,
     .gamypx-mode-card,
     .gamypx-example-box {
+        padding: 7px;
+    }
+
+    .gamypx-table th,
+    .gamypx-table td {
         padding: 7px;
     }
 }
