@@ -38,6 +38,20 @@
       'card-mechanics-level': '📊 Beginner',
       'card-mechanics-link': 'View Tutorial →',
 
+      /* ── Contact page ── */
+      'contact-title': 'Contact Form',
+      'contact-name': 'Name',
+      'contact-email': 'Email address',
+      'contact-message': 'Message',
+      'contact-send': 'Send',
+
+      /* ── About page ── */
+      'about-text': 'We are an independent video game company dedicated to creating unique and exciting experiences for our players. Our team is made up of game enthusiasts who work hard to deliver a wide variety of high-quality games with great attention to detail.<br /><br />We pride ourselves on having a creative and unique vision that allows us to develop innovative games that don\'t conform to the conventions of the video game market. On our website, you will find information about our current games, upcoming releases, and everything you need to know about us.<br /><br />We are passionate about the work we do and hope our games convey the same excitement to you. Feel free to explore our website and contact us if you have any questions or suggestions. Thank you for visiting!',
+
+      /* ── Games & Apps page ── */
+      'game-powerloom-desc': 'Power Loom 3D is an application that simulates the operation of a mechanical loom using the Unity physics engine. This application offers an intuitive and user-friendly interface that allows users to observe the complex movements of a loom in a simplified and visually appealing way.',
+      'game-pixelweave-desc': 'Pixel Weave Designer is an easy-to-use application for creating weaving patterns. It offers predefined patterns, a color picker, a canvas size of 64 weft threads by 64 warp threads, and supports tie-up configurations of up to 10 shafts by 10 treadles, making it a powerful tool for weavers seeking precision and creativity in their projects.',
+
       /* ── Theme UI ── */
       'cookie-text': 'Our website uses cookies to improve your experience. <a href="https://gamypixel.blogspot.com/p/politica-de-cookies.html">Learn more</a>',
       'cookie-accept': 'Accept',
@@ -72,6 +86,20 @@
       'bake-filter-splotches': 'Splotches / Noise',
       'bake-filter-leaks': 'Light Leaks',
       'bake-fix-label': '<strong>Fix:</strong>',
+
+      /* ── Contact page ── */
+      'contact-title': 'Contact Form',
+      'contact-name': 'Name',
+      'contact-email': 'Email address',
+      'contact-message': 'Message',
+      'contact-send': 'Send',
+
+      /* ── About page ── */
+      'about-text': 'We are an independent video game company dedicated to creating unique and exciting experiences for our players. Our team is made up of game enthusiasts who work hard to deliver a wide variety of high-quality games with great attention to detail.<br /><br />We pride ourselves on having a creative and unique vision that allows us to develop innovative games that don\'t conform to the conventions of the video game market. On our website, you will find information about our current games, upcoming releases, and everything you need to know about us.<br /><br />We are passionate about the work we do and hope our games convey the same excitement to you. Feel free to explore our website and contact us if you have any questions or suggestions. Thank you for visiting!',
+
+      /* ── Games & Apps page ── */
+      'game-powerloom-desc': 'Power Loom 3D is an application that simulates the operation of a mechanical loom using the Unity physics engine. This application offers an intuitive and user-friendly interface that allows users to observe the complex movements of a loom in a simplified and visually appealing way.',
+      'game-pixelweave-desc': 'Pixel Weave Designer is an easy-to-use application for creating weaving patterns. It offers predefined patterns, a color picker, a canvas size of 64 weft threads by 64 warp threads, and supports tie-up configurations of up to 10 shafts by 10 treadles, making it a powerful tool for weavers seeking precision and creativity in their projects.',
     },
 
     es: {
@@ -102,6 +130,20 @@
       'card-mechanics-desc': 'Fundamentos del diseño de mecánicas jugables. Aprende a crear sistemas divertidos y balanceados desde cero.',
       'card-mechanics-level': '📊 Principiante',
       'card-mechanics-link': 'Ver Tutorial →',
+
+      /* ── Contact page ── */
+      'contact-title': 'Formulario de contacto',
+      'contact-name': 'Nombre',
+      'contact-email': 'Correo electrónico',
+      'contact-message': 'Mensaje',
+      'contact-send': 'Enviar',
+
+      /* ── About page ── */
+      'about-text': 'Somos una empresa de videojuegos independiente dedicada a la creación de experiencias únicas y emocionantes para nuestros jugadores. Nuestro equipo está formado por entusiastas del juego que trabajan arduamente para ofrecer una amplia variedad de juegos de alta calidad con una gran atención al detalle.<br /><br />Nos enorgullece tener una visión creativa y única que nos permite desarrollar juegos innovadores que no se ajustan a las convenciones del mercado de videojuegos. En nuestro sitio web, encontrarás información sobre nuestros juegos actuales, próximos lanzamientos y todo lo que necesitas saber sobre nosotros.<br /><br />Nos apasiona el trabajo que hacemos y esperamos que nuestros juegos te transmitan la misma emoción. No dudes en explorar nuestro sitio web y contactarnos si tienes alguna pregunta o sugerencia. ¡Gracias por visitarnos!',
+
+      /* ── Games & Apps page ── */
+      'game-powerloom-desc': 'Power Loom 3D es una aplicación que simula el funcionamiento de un telar mecánico utilizando el motor de física de Unity. Esta aplicación ofrece una interfaz intuitiva y amigable que permite a los usuarios observar los movimientos complejos de un telar de una manera simplificada y visualmente atractiva.',
+      'game-pixelweave-desc': 'Pixel Weave Designer es una aplicación fácil de usar para crear patrones de tejido. Ofrece patrones predefinidos, un selector de colores, un tamaño de lienzo de 64 hilos de trama por 64 hilos de urdimbre y admite configuraciones de amarre de hasta 10 lizos por 10 pedales, lo que la convierte en una herramienta poderosa para tejedores que buscan precisión y creatividad en sus proyectos.',
 
       /* ── Theme UI ── */
       'cookie-text': 'Nuestro sitio web utiliza cookies para mejorar su experiencia. <a href="https://gamypixel.blogspot.com/p/politica-de-cookies.html">Saber más</a>',
@@ -137,6 +179,20 @@
       'bake-filter-splotches': 'Manchas / Ruido',
       'bake-filter-leaks': 'Fugas de Luz',
       'bake-fix-label': '<strong>Solución:</strong>',
+
+      /* ── Contact page ── */
+      'contact-title': 'Formulario de contacto',
+      'contact-name': 'Nombre',
+      'contact-email': 'Correo electrónico',
+      'contact-message': 'Mensaje',
+      'contact-send': 'Enviar',
+
+      /* ── About page ── */
+      'about-text': 'Somos una empresa de videojuegos independiente dedicada a la creación de experiencias únicas y emocionantes para nuestros jugadores. Nuestro equipo está formado por entusiastas del juego que trabajan arduamente para ofrecer una amplia variedad de juegos de alta calidad con una gran atención al detalle.<br /><br />Nos enorgullece tener una visión creativa y única que nos permite desarrollar juegos innovadores que no se ajustan a las convenciones del mercado de videojuegos. En nuestro sitio web, encontrarás información sobre nuestros juegos actuales, próximos lanzamientos y todo lo que necesitas saber sobre nosotros.<br /><br />Nos apasiona el trabajo que hacemos y esperamos que nuestros juegos te transmitan la misma emoción. No dudes en explorar nuestro sitio web y contactarnos si tienes alguna pregunta o sugerencia. ¡Gracias por visitarnos!',
+
+      /* ── Games & Apps page ── */
+      'game-powerloom-desc': 'Power Loom 3D es una aplicación que simula el funcionamiento de un telar mecánico utilizando el motor de física de Unity. Esta aplicación ofrece una interfaz intuitiva y amigable que permite a los usuarios observar los movimientos complejos de un telar de una manera simplificada y visualmente atractiva.',
+      'game-pixelweave-desc': 'Pixel Weave Designer es una aplicación fácil de usar para crear patrones de tejido. Ofrece patrones predefinidos, un selector de colores, un tamaño de lienzo de 64 hilos de trama por 64 hilos de urdimbre y admite configuraciones de amarre de hasta 10 lizos por 10 pedales, lo que la convierte en una herramienta poderosa para tejedores que buscan precisión y creatividad en sus proyectos.',
     }
   };
 
